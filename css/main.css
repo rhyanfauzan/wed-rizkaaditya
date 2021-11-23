@@ -49,9 +49,14 @@ body {
   font-size: 100%;
   line-height: 1.5em;
 }
-
+.color-white {
+  color: #fff;
+}
 .color-purple {
   color: #a878ff;
+}
+.bg-color-purple {
+  background-color: #a878ff;
 }
 
 a {
